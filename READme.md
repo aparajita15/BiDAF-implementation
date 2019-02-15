@@ -41,9 +41,10 @@ Training tips:
 - check if the GPUs are acceessed by pytorch - print(torch.cuda.is_available())
 
 Other GREAT references:
-Tips for training by Andrej Karpathy: https://twitter.com/karpathy/status/1013244313327681536?s=19
-https://blog.slavv.com/37-reasons-why-your-neural-network-is-not-working-4020854bd607
-Difference between detach, no_gra, requires_grad
-https://discuss.pytorch.org/t/detach-no-grad-and-requires-grad/16915
-Difference bwteen .view() and .permute()
+Tips for training by Andrej Karpathy: 
+- https://twitter.com/karpathy/status/1013244313327681536?s=19
+- https://blog.slavv.com/37-reasons-why-your-neural-network-is-not-working-4020854bd607
+- Difference between detach, no_gra, requires_grad
+- https://discuss.pytorch.org/t/detach-no-grad-and-requires-grad/16915
+- Difference bwteen .view() and .permute()
 
