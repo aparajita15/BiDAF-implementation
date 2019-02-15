@@ -1,4 +1,5 @@
 Training BiDAF model using SQuaD dataset
+
 This is my implementation of BiDAF model from scratch in pytorch. 
 
  Structure of the code
